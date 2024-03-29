@@ -138,6 +138,10 @@ hr {
     border-radius: 20px;
 }
 
+#foot {
+    text-align: center;
+}
+
 /* media queries */
 @media screen and (max-width:688px) {
     .container {
